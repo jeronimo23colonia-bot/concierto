@@ -1,0 +1,25 @@
+body {
+    background-color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+
+}
+
+h1 {
+    color : black;
+
+}
+
+texto {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;   
+    color: black;
+    text-align: center;
+    background-color: white;
+    border: 2px solid black;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+    
+}
